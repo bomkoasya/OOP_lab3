@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Гра Лабіринт</string>
+    <string name="level_format">Рівень: %1$d (%2$dx%3$d)</string>
+    <string name="moves_format">Ходів: %1$d</string>
+    <string name="btn_new_maze">Новий лабіринт</string>
+    <string name="btn_lang_switch">UA / EN</string>
+    <string name="btn_up">▲</string>
+    <string name="btn_down">▼</string>
+    <string name="btn_left">◄</string>
+    <string name="btn_right">►</string>
+    <string name="win_title">Лабіринт пройдено!</string>
+    <string name="win_message">Ви вивели об'єкт із лабіринту за %1$d ходів! Перейти на наступний рівень?</string>
+    <string name="win_next_level">Наступний рівень</string>
+    <string name="hint_controls">Використовуйте кнопки або свайпи для виведення об'єкта до виходу</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Maze Labyrinth</string>
+    <string name="level_format">Level: %1$d (%2$dx%3$d)</string>
+    <string name="moves_format">Moves: %1$d</string>
+    <string name="btn_new_maze">New Maze</string>
+    <string name="btn_lang_switch">UA / EN</string>
+    <string name="btn_up">▲</string>
+    <string name="btn_down">▼</string>
+    <string name="btn_left">◄</string>
+    <string name="btn_right">►</string>
+    <string name="win_title">Maze Completed!</string>
+    <string name="win_message">You escaped the labyrinth in %1$d moves! Ready for the next level?</string>
+    <string name="win_next_level">Next Level</string>
+    <string name="hint_controls">Use buttons or swipe on the maze to guide the ball to the exit</string>
+</resources>
